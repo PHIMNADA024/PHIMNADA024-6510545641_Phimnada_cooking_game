@@ -1,0 +1,69 @@
+{
+    "1": {
+        "size": 12,
+        "flour": "thick",
+        "sauce": "thousand_island",
+        "topping": [
+            "Bacon",
+            "Pepperoni",
+            "Shrimp"
+        ],
+        "price": 688
+    },
+    "2": {
+        "size": 12,
+        "flour": "thin_and_crispy",
+        "sauce": "tomato",
+        "topping": [
+            "Mushroom",
+            "Bell pepper",
+            "Shrimp"
+        ],
+        "price": 554
+    },
+    "3": {
+        "size": 12,
+        "flour": "thin_and_crispy",
+        "sauce": "tomato",
+        "topping": [
+            "Mushroom",
+            "Bell pepper"
+        ],
+        "price": 434
+    },
+    "4": {
+        "size": 12,
+        "flour": "thin_and_crispy",
+        "sauce": "tomato",
+        "topping": [
+            "Crab stick",
+            "Bell pepper"
+        ],
+        "price": 422
+    },
+    "5": {
+        "size": 8,
+        "flour": "thin_and_crispy",
+        "sauce": "tomato",
+        "topping": [
+            "Crab stick",
+            "Shrimp",
+            "Bacon"
+        ],
+        "price": 410
+    },
+    "6": {
+        "size": 8,
+        "flour": "thin_and_crispy",
+        "sauce": "tomato",
+        "topping": [
+            "Mushroom",
+            "Crab stick",
+            "Bell pepper",
+            "Shrimp",
+            "Pepperoni",
+            "Bacon"
+        ],
+        "price": 514
+    }
+}

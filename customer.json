@@ -1,0 +1,60 @@
+{
+    "Ta": {
+        "birth_date": 24,
+        "birth_month": 4,
+        "birth_year": 2004,
+        "total_pay": 1720,
+        "purchase": [
+            362,
+            185,
+            506,
+            245,
+            422
+        ]
+    },
+    "Mos": {
+        "birth_date": 2,
+        "birth_month": 8,
+        "birth_year": 2003,
+        "total_pay": 688,
+        "purchase": [
+            688
+        ]
+    },
+    "bbbbbb": {
+        "birth_date": 14,
+        "birth_month": 2,
+        "birth_year": 2004,
+        "total_pay": 554,
+        "purchase": [
+            554
+        ]
+    },
+    "rrr": {
+        "birth_date": 9,
+        "birth_month": 8,
+        "birth_year": 2003,
+        "total_pay": 434,
+        "purchase": [
+            434
+        ]
+    },
+    "eye": {
+        "birth_date": 14,
+        "birth_month": 2,
+        "birth_year": 2004,
+        "total_pay": 410,
+        "purchase": [
+            410
+        ]
+    },
+    "bae": {
+        "birth_date": 6,
+        "birth_month": 2,
+        "birth_year": 2005,
+        "total_pay": 514,
+        "purchase": [
+            514
+        ]
+    }
+}
