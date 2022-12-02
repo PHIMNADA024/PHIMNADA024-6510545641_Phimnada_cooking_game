@@ -12,6 +12,13 @@ Additionally, there is a system in place to offer discounts to customers whose b
 3. The cost of the menu you have chosen will be shown when you have completed picking.
 4. Enter the amount you will pay.
 5. The amount of change you will get is shown.
+
+[![console1.gif](https://i.postimg.cc/x1GcC4XL/console1.gif)](https://postimg.cc/nXzHSTYL)
+[![console2.gif](https://i.postimg.cc/5yq20H0b/console2.gif)](https://postimg.cc/p5rHcLz6)
+[![console3.gif](https://i.postimg.cc/ZnDD6H0c/console3.gif)](https://postimg.cc/MfVDSy7M)
+[![console4.gif](https://i.postimg.cc/Gh01gPQf/console4.gif)](https://postimg.cc/rz9bKr7G)
+[![console5.gif](https://i.postimg.cc/CLJmnSz4/console5.gif)](https://postimg.cc/QH9pRLgB)
+[![console6.gif](https://i.postimg.cc/jj6WCdjx/console6.gif)](https://postimg.cc/sBXfNzSq)
 ### Program's Requirement
 There are **4** Python modules & libraries required in the program.
 * [turtle](https://docs.python.org/3/library/turtle.html) : utilized to create the menu graphics.
@@ -24,6 +31,8 @@ There are **4** classes in this program.
 * **Hamburger** : This class is used to select hamburger ingredients, calculate hamburger ingredient prices, create hamburger screens, and write hamburger size and ingredient files.
 * **Ingredient** : This class is used to calculate the cost of each ingredient on that menu.
 * **Customer** : This class is used to compute customer change, pay amount, and discount, as well as write customer data files. 
+
+[![Cooking-Game.png](https://i.postimg.cc/3NhQNYdT/Cooking-Game.png)](https://postimg.cc/VrKVHyqG)
 ### Code Structure
 * [main.py](main.py) : Run Main Program.
 * [Pizza.py](Pizza.py) : Contains Pizza Class.
