@@ -10,5 +10,20 @@
             "Bacon"
         ],
         "price": 245
+    },
+    "2": {
+        "size": 4,
+        "bun": "classic_bun",
+        "meat": "beef",
+        "sauce": "tomato_sauce",
+        "topping": [
+            "Cheese",
+            "Pickle",
+            "Tomato",
+            "Lettuce",
+            "Onnion",
+            "Bacon"
+        ],
+        "price": 230
     }
 }
