@@ -39,16 +39,16 @@ class Customer:
         banknotes = [1000, 500, 100, 50, 20]
         coins = [10, 5, 2, 1]
         food_price_discount = food_price - self.discount(food_price)
-        print(f"Price of the pizza: {food_price} Baht")
-        print(f"Discount : {food_price - food_price_discount} Baht")
-        print(f"Please pay {food_price_discount} Baht")
+        print(f"Price of the pizza: {food_price:.2f} Baht")
+        print(f"Discount : {food_price - food_price_discount:.2f} Baht")
+        print(f"Please pay {food_price_discount:.2f} Baht")
         cash = int(input("Input your money here : "))
         # If the amount that the customer enters is less than the price of the menu that the customer chooses,
         # the customer must enter money again until it is greater than or equal to the price of that menu.
         while cash < food_price_discount:
             print("Your money is not enough.")
             cash = int(input("Input your money here : "))
-        print(f"Your change is {cash-food_price_discount} Baht.")
+        print(f"Your change is {cash-food_price_discount:.2f} Baht.")
         print("Here is your change.")
         change = cash-food_price_discount
         # Calculate the change until the amount of change is equal to 0.
