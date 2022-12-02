@@ -74,5 +74,15 @@ elif choice == "2":
     print("---------------------------")
     hamburger = Hamburger()
     hamburger.burger_screen()
+    print(f"Hamburger size: {hamburger.size} inches")
+    print(f"Hamburger bun: {hamburger.bun}")
+    print(f"Hamburger meat: {hamburger.meat}")
+    print(f"Hamburger sauce: {hamburger.sauce} sauce")
+    print("Hamburger Topping: ", end="")
+    for index, topping in hamburger.topping.items():
+        if index == len(hamburger.topping) - 1:
+            print(topping.type)
+        else:
+            print(topping.type, end=", ")
     customer.change_money(hamburger.price)
     hamburger.write_file_burger()
