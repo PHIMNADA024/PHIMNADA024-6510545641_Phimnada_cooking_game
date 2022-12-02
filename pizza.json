@@ -65,5 +65,38 @@
             "Bacon"
         ],
         "price": 514
+    },
+    "7": {
+        "size": 8,
+        "flour": "thin_and_crispy",
+        "sauce": "tomato",
+        "topping": [
+            "Mushroom",
+            "Shrimp",
+            "Bell pepper"
+        ],
+        "price": 386
+    },
+    "8": {
+        "size": 8,
+        "flour": "thick",
+        "sauce": "tomato",
+        "topping": [
+            "Mushroom",
+            "Bell pepper",
+            "Shrimp"
+        ],
+        "price": 436
+    },
+    "9": {
+        "size": 8,
+        "flour": "thick",
+        "sauce": "tomato",
+        "topping": [
+            "Crab stick",
+            "Shrimp",
+            "Bell pepper"
+        ],
+        "price": 428
     }
 }
