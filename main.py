@@ -56,6 +56,15 @@ if choice == "1":
     print("---------------------------")
     pizza = Pizza()
     pizza.pizza_screen()
+    print(f"Pizza size: {pizza.size} inches")
+    print(f"Pizza flour: {pizza.flour}")
+    print(f"Pizza sauce: {pizza.sauce} sauce")
+    print("Pizza Topping: ", end="")
+    for index, topping in pizza.topping.items():
+        if index == len(pizza.topping) - 1:
+            print(topping.type)
+        else:
+            print(topping.type, end=", ")
     customer.change_money(pizza.price)
     pizza.write_file_pizza()
 elif choice == "2":
