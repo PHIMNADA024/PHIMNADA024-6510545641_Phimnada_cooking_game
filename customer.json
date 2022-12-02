@@ -74,5 +74,14 @@
         "purchase": [
             214.0
         ]
+    },
+    "ham": {
+        "birth_date": 6,
+        "birth_month": 8,
+        "birth_year": 2005,
+        "total_pay": 230,
+        "purchase": [
+            230
+        ]
     }
 }
