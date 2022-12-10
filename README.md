@@ -5,7 +5,7 @@ It is inspired by food preferences and gaming preferences.
 Customers can choose to make the pizza or hamburger they desire in this game. 
 Additionally, there is a system in place to offer discounts to customers whose birthday or month of birth falls on the same day as their visit to purchase food.
 
-[![pizza.gif](https://i.postimg.cc/Bvq1YGJ8/pizza.gif)](https://postimg.cc/BjV6bkLs)
+![pizza.gif](pizza.gif)
 ### How to use and play?
 1. Enter your name and birthdate before selecting the menu you want to purchase.
 2. Choose from that menu's size, flour, sauce, and topping options.
@@ -13,12 +13,12 @@ Additionally, there is a system in place to offer discounts to customers whose b
 4. Enter the amount you will pay.
 5. The amount of change you will get is shown.
 
-[![console1.gif](https://i.postimg.cc/x1GcC4XL/console1.gif)](https://postimg.cc/nXzHSTYL)
-[![console2.gif](https://i.postimg.cc/5yq20H0b/console2.gif)](https://postimg.cc/p5rHcLz6)
-[![console3.gif](https://i.postimg.cc/ZnDD6H0c/console3.gif)](https://postimg.cc/MfVDSy7M)
-[![console4.gif](https://i.postimg.cc/Gh01gPQf/console4.gif)](https://postimg.cc/rz9bKr7G)
-[![console5.gif](https://i.postimg.cc/CLJmnSz4/console5.gif)](https://postimg.cc/QH9pRLgB)
-[![console6.gif](https://i.postimg.cc/jj6WCdjx/console6.gif)](https://postimg.cc/sBXfNzSq)
+![console1.gif](console1.gif)
+![console2.gif](console2.gif)
+![console3.gif](console3.gif)
+![console4.gif](console4.gif)
+![console5.gif](console5.gif)
+![console6.gif](console6.gif)
 ### Program's Requirement
 There are **4** Python modules & libraries required in the program.
 * [turtle](https://docs.python.org/3/library/turtle.html) : utilized to create the menu graphics.
@@ -32,7 +32,7 @@ There are **4** classes in this program.
 * **Ingredient** : This class is used to calculate the cost of each ingredient on that menu.
 * **Customer** : This class is used to compute customer change, pay amount, and discount, as well as write customer data files. 
 
-[![Cooking-Game.png](https://i.postimg.cc/3NhQNYdT/Cooking-Game.png)](https://postimg.cc/VrKVHyqG)
+![Cooking_Game.png](Cooking_Game.png)
 ### Code Structure
 * [main.py](main.py) : Run Main Program.
 * [Pizza.py](Pizza.py) : Contains Pizza Class.
